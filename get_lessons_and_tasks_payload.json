@@ -1,0 +1,359 @@
+{
+    "lessons": [
+        {
+            "id": "lesson1",
+            "title": "How to Make Funny Memes",
+            "description": "A comprehensive guide on creating humorous memes, covering basic principles, popular formats, and creative tips.",
+            "pages": [
+                {
+                "id": "page1",
+                "title": "Introduction to Memes",
+                "description": "An introduction to the concept and culture of memes.",
+                "order": 1,
+                "components": [
+                    {
+                    "content": {
+                        "type": "text",
+                        "text": "Memes have become a fundamental part of internet culture, serving as a medium for humor, social commentary, and shared experiences. They are typically images, videos, or pieces of text that are copied and spread rapidly by internet users, often with slight variations. In this lesson, we'll explore the art of making funny memes, covering the basic principles, popular formats, and tips for creativity."
+                    },
+                    "order": 1
+                    },
+                    {
+                    "content": {
+                        "type": "image",
+                        "url": "image1_url",
+                        "caption": "A collage featuring popular meme formats, including 'Distracted Boyfriend,' 'Drake Hotline Bling,' and 'Woman Yelling at a Cat.' Each format is labeled with its name."
+                    },
+                    "order": 2
+                    },
+                    {
+                    "content": {
+                        "type": "text",
+                        "text": "Understanding the different types of memes and their structures is crucial. Familiar formats make it easier for your audience to understand and appreciate your humor quickly. Let's dive into some of the most popular meme formats."
+                    },
+                    "order": 3
+                    }
+                ]
+                },
+                {
+                "id": "page2",
+                "title": "Understanding Meme Formats",
+                "description": "An overview of popular meme formats and their characteristics.",
+                "order": 2,
+                "components": [
+                    {
+                    "content": {
+                        "type": "text",
+                        "text": "Meme formats are the templates that give structure to a meme. Some formats are universally recognized, and their popularity can add an extra layer of humor due to their familiarity. Here are a few examples:\n\n1. **Image Macros**: These are images with text overlaid, often in Impact font. They usually consist of a top and bottom text, with the image providing context. Example: 'Grumpy Cat.'"
+                    },
+                    "order": 1
+                    },
+                    {
+                    "content": {
+                        "type": "image",
+                        "url": "image2_url",
+                        "caption": "'Grumpy Cat' with a classic caption: 'I had fun once. It was awful.'"
+                    },
+                    "order": 2
+                    },
+                    {
+                    "content": {
+                        "type": "text",
+                        "text": "2. **Two-panel/Three-panel Memes**: These involve a sequence of images that tell a short story or depict a situation. Example: 'Expanding Brain.'"
+                    },
+                    "order": 3
+                    },
+                    {
+                    "content": {
+                        "type": "image",
+                        "url": "image3_url",
+                        "caption": "A sequence of the 'Expanding Brain' meme, showing four stages of brain expansion with increasingly absurd ideas."
+                    },
+                    "order": 4
+                    },
+                    {
+                    "content": {
+                        "type": "text",
+                        "text": "3. **Reaction Memes**: These are images or GIFs used to express a reaction, such as shock, joy, or frustration. Example: 'Surprised Pikachu.'\n\n4. **Advice Animals**: These are animal images with captions that portray stereotypical behavior or advice. Example: 'Bad Luck Brian.'"
+                    },
+                    "order": 5
+                    },
+                    {
+                    "content": {
+                        "type": "image",
+                        "url": "image4_url",
+                        "caption": "'Surprised Pikachu' and 'Bad Luck Brian' with typical captions."
+                    },
+                    "order": 6
+                    }
+                ]
+                },
+                {
+                "id": "page3",
+                "title": "Creating Your Own Meme",
+                "description": "Step-by-step instructions on how to create a meme.",
+                "order": 3,
+                "components": [
+                    {
+                    "content": {
+                        "type": "text",
+                        "text": "Creating a funny meme involves more than just slapping text on an image. Here are steps to guide you:\n\n1. **Choose Your Format**: Decide which type of meme format suits your idea best. For beginners, image macros are a great starting point.\n\n2. **Find or Create an Image**: Select an image that will resonate with your audience and suit the humor you intend to convey. Websites like Imgflip or Meme Generator have a library of images to choose from."
+                    },
+                    "order": 1
+                    },
+                    {
+                    "content": {
+                        "type": "image",
+                        "url": "image5_url",
+                        "caption": "A screenshot of the Imgflip website, highlighting the search bar and popular meme templates available for use."
+                    },
+                    "order": 2
+                    },
+                    {
+                    "content": {
+                        "type": "text",
+                        "text": "3. **Craft Your Caption**: The text is crucial. It should be short, snappy, and align perfectly with the image. Puns, cultural references, and relatable situations often work well."
+                    },
+                    "order": 3
+                    },
+                    {
+                    "content": {
+                        "type": "image",
+                        "url": "image6_url",
+                        "caption": "An example of a meme being created on Imgflip, showing the image chosen and text being added in Impact font."
+                    },
+                    "order": 4
+                    },
+                    {
+                    "content": {
+                        "type": "text",
+                        "text": "4. **Use Meme-Making Tools**: Tools like Canva, Photoshop, or online meme generators can help you easily overlay text on your image. Remember to use a clear, bold font.\n\n5. **Test Your Meme**: Share it with friends or on social media to see how it resonates. Feedback can help you refine your meme-making skills."
+                    },
+                    "order": 5
+                    }
+                ]
+                },
+                {
+                "id": "page4",
+                "title": "Tips for Making Funny Memes",
+                "description": "Helpful tips to enhance your meme-making skills.",
+                "order": 4,
+                "components": [
+                    {
+                    "content": {
+                        "type": "text",
+                        "text": "Creating a truly funny meme requires creativity and an understanding of your audience. Here are some tips:\n\n1. **Know Your Audience**: Tailor your memes to the interests and humor of your target audience. What’s funny to one group might not be to another."
+                    },
+                    "order": 1
+                    },
+                    {
+                    "content": {
+                        "type": "image",
+                        "url": "image7_url",
+                        "caption": "A pie chart showing different audience demographics and their meme preferences, such as millennials, Gen Z, and niche communities."
+                    },
+                    "order": 2
+                    },
+                    {
+                    "content": {
+                        "type": "text",
+                        "text": "2. **Stay Relevant**: Memes often rely on current events, trends, or pop culture. Keeping up with what’s popular can help your meme hit the mark."
+                    },
+                    "order": 3
+                    },
+                    {
+                    "content": {
+                        "type": "image",
+                        "url": "image8_url",
+                        "caption": "A smartphone screen displaying trending topics on Twitter, highlighting how to find current events and trends."
+                    },
+                    "order": 4
+                    },
+                    {
+                    "content": {
+                        "type": "text",
+                        "text": "3. **Be Relatable**: The best memes are ones that people can see themselves in. Everyday situations, common frustrations, or universal experiences make for great meme content.\n\n4. **Use Humor Wisely**: Avoid offensive or overly niche humor. Aim for a balance that’s funny and inclusive.\n\n5. **Experiment**: Don’t be afraid to try different formats and styles. The internet is a playground for creativity."
+                    },
+                    "order": 5
+                    },
+                    {
+                    "content": {
+                        "type": "image",
+                        "url": "image9_url",
+                        "caption": "A collage of various experimental meme formats, showing different styles and approaches."
+                    },
+                    "order": 6
+                    }
+                ]
+                },
+                {
+                "id": "page5",
+                "title": "Analyzing Successful Memes",
+                "description": "Examples and analysis of viral memes.",
+                "order": 5,
+                "components": [
+                    {
+                    "content": {
+                        "type": "text",
+                        "text": "To understand what makes a meme successful, let’s analyze a few viral memes:\n\n1. **'Distracted Boyfriend'**: This meme uses a stock photo of a man looking at another woman while his girlfriend looks on disapprovingly. Its success lies in its flexibility; the characters can represent almost anything, making it endlessly adaptable."
+                    },
+                    "order": 1
+                    },
+                    {
+                    "content": {
+                        "type": "image",
+                        "url": "image10_url",
+                        "caption": "The 'Distracted Boyfriend' meme with different captions, showing how the characters can represent various concepts or ideas."
+                    },
+                    "order": 2
+                    },
+                    {
+                    "content": {
+                        "type": "text",
+                        "text": "2. **'Mocking SpongeBob'**: This meme features SpongeBob SquarePants mocking someone's statement. Its humor comes from the exaggerated pose and the relatable scenario of mocking someone or something."
+                    },
+                    "order": 3
+                    },
+                    {
+                    "content": {
+                        "type": "image",
+                        "url": "image11_url",
+                        "caption": "A 'Mocking SpongeBob' meme example with SpongeBob mimicking a statement in alternating upper and lower case letters."
+                    },
+                    "order": 4
+                    },
+                    {
+                    "content": {
+                        "type": "text",
+                        "text": "3. **'Is This a Pigeon?'**: Taken from an anime scene, this meme shows a character mistaking a butterfly for a pigeon. Its appeal lies in its absurdity and the caption's ability to question misunderstandings humorously."
+                    },
+                    "order": 5
+                    },
+                    {
+                    "content": {
+                        "type": "image",
+                        "url": "image12_url",
+                        "caption": "The 'Is This a Pigeon?' meme with various captions questioning different misunderstandings."
+                    },
+                    "order": 6
+                    },
+                    {
+                    "content": {
+                        "type": "text",
+                        "text": "By following these guidelines and studying successful examples, you can begin creating your own funny memes and contribute to the ever-evolving world of internet humor. Have fun, and happy meme-making!"
+                    },
+                    "order": 7
+                    }
+                ]
+                }
+            ],
+            "tasks": ["task1", "task2", "task3", "task4"]
+        }
+    ],
+    "tasks": [
+        {
+            "id": "task1",
+            "question": "What is the primary purpose of memes in internet culture?",
+            "options": [
+            {
+                "text": "To spread misinformation",
+                "order": 1,
+                "isCorrect": false
+            },
+            {
+                "text": "To serve as a medium for humor, social commentary, and shared experiences",
+                "order": 2,
+                "isCorrect": true
+            },
+            {
+                "text": "To promote online shopping",
+                "order": 3,
+                "isCorrect": false
+            },
+            {
+                "text": "To create viral marketing campaigns",
+                "order": 4,
+                "isCorrect": false
+            }
+            ]
+        },
+        {
+            "id": "task2",
+            "question": "Which meme format involves a sequence of images to tell a short story?",
+            "options": [
+            {
+                "text": "Image Macros",
+                "order": 1,
+                "isCorrect": false
+            },
+            {
+                "text": "Two-panel/Three-panel Memes",
+                "order": 2,
+                "isCorrect": true
+            },
+            {
+                "text": "Reaction Memes",
+                "order": 3,
+                "isCorrect": false
+            },
+            {
+                "text": "Advice Animals",
+                "order": 4,
+                "isCorrect": false
+            }
+            ]
+        },
+        {
+            "id": "task3",
+            "question": "When creating a meme, why is it important to know your audience?",
+            "options": [
+            {
+                "text": "To ensure the meme aligns with their interests and humor",
+                "order": 1,
+                "isCorrect": true
+            },
+            {
+                "text": "To use the correct image resolution",
+                "order": 2,
+                "isCorrect": false
+            },
+            {
+                "text": "To determine the best time to post it",
+                "order": 3,
+                "isCorrect": false
+            },
+            {
+                "text": "To find the right meme-making tool",
+                "order": 4,
+                "isCorrect": false
+            }
+            ]
+        },
+        {
+            "id": "task4",
+            "question": "Which of the following is NOT a tip for creating funny memes?",
+            "options": [
+            {
+                "text": "Stay relevant by using current events and trends",
+                "order": 1,
+                "isCorrect": false
+            },
+            {
+                "text": "Use humor that is inclusive and not offensive",
+                "order": 2,
+                "isCorrect": true
+            },
+            {
+                "text": "Use as much text as possible to explain the joke",
+                "order": 3,
+                "isCorrect": true
+            },
+            {
+                "text": "Experiment with different formats and styles",
+                "order": 4,
+                "isCorrect": false
+            }
+            ]
+        }
+        ]
+}
