@@ -2,6 +2,7 @@
     "lessons": [
         {
             "id": "lesson1",
+            "emoji": "😆",
             "title": "How to Make Funny Memes",
             "description": "A comprehensive guide on creating humorous memes, covering basic principles, popular formats, and creative tips.",
             "pages": [
