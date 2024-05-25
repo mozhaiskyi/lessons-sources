@@ -22,7 +22,7 @@
                     {
                     "content": {
                         "type": "image",
-                        "url": "image1_url",
+                        "url": "https://raw.githubusercontent.com/mozhaiskyi/lessons-sources/main/images/image1_url.png",
                         "caption": "A collage featuring popular meme formats, including 'Distracted Boyfriend,' 'Drake Hotline Bling,' and 'Woman Yelling at a Cat.' Each format is labeled with its name."
                     },
                     "order": 2
@@ -52,7 +52,7 @@
                     {
                     "content": {
                         "type": "image",
-                        "url": "image2_url",
+                        "url": "https://raw.githubusercontent.com/mozhaiskyi/lessons-sources/main/images/image2_url.png",
                         "caption": "'Grumpy Cat' with a classic caption: 'I had fun once. It was awful.'"
                     },
                     "order": 2
@@ -67,7 +67,7 @@
                     {
                     "content": {
                         "type": "image",
-                        "url": "image3_url",
+                        "url": "https://raw.githubusercontent.com/mozhaiskyi/lessons-sources/main/images/image3_url.png",
                         "caption": "A sequence of the 'Expanding Brain' meme, showing four stages of brain expansion with increasingly absurd ideas."
                     },
                     "order": 4
@@ -82,7 +82,7 @@
                     {
                     "content": {
                         "type": "image",
-                        "url": "image4_url",
+                        "url": "https://raw.githubusercontent.com/mozhaiskyi/lessons-sources/main/images/image4_url.png",
                         "caption": "'Surprised Pikachu' and 'Bad Luck Brian' with typical captions."
                     },
                     "order": 6
@@ -105,7 +105,7 @@
                     {
                     "content": {
                         "type": "image",
-                        "url": "image5_url",
+                        "url": "https://raw.githubusercontent.com/mozhaiskyi/lessons-sources/main/images/image5_url.png",
                         "caption": "A screenshot of the Imgflip website, highlighting the search bar and popular meme templates available for use."
                     },
                     "order": 2
@@ -120,7 +120,7 @@
                     {
                     "content": {
                         "type": "image",
-                        "url": "image6_url",
+                        "url": "https://raw.githubusercontent.com/mozhaiskyi/lessons-sources/main/images/image6_url.png",
                         "caption": "An example of a meme being created on Imgflip, showing the image chosen and text being added in Impact font."
                     },
                     "order": 4
@@ -150,7 +150,7 @@
                     {
                     "content": {
                         "type": "image",
-                        "url": "image7_url",
+                        "url": "https://raw.githubusercontent.com/mozhaiskyi/lessons-sources/main/images/image7_url.png",
                         "caption": "A pie chart showing different audience demographics and their meme preferences, such as millennials, Gen Z, and niche communities."
                     },
                     "order": 2
@@ -165,7 +165,7 @@
                     {
                     "content": {
                         "type": "image",
-                        "url": "image8_url",
+                        "url": "https://raw.githubusercontent.com/mozhaiskyi/lessons-sources/main/images/image8_url.png",
                         "caption": "A smartphone screen displaying trending topics on Twitter, highlighting how to find current events and trends."
                     },
                     "order": 4
@@ -180,7 +180,7 @@
                     {
                     "content": {
                         "type": "image",
-                        "url": "image9_url",
+                        "url": "https://raw.githubusercontent.com/mozhaiskyi/lessons-sources/main/images/image9_url.png",
                         "caption": "A collage of various experimental meme formats, showing different styles and approaches."
                     },
                     "order": 6
@@ -203,7 +203,7 @@
                     {
                     "content": {
                         "type": "image",
-                        "url": "image10_url",
+                        "url": "https://raw.githubusercontent.com/mozhaiskyi/lessons-sources/main/images/image10_url.png",
                         "caption": "The 'Distracted Boyfriend' meme with different captions, showing how the characters can represent various concepts or ideas."
                     },
                     "order": 2
@@ -218,7 +218,7 @@
                     {
                     "content": {
                         "type": "image",
-                        "url": "image11_url",
+                        "url": "https://raw.githubusercontent.com/mozhaiskyi/lessons-sources/main/images/image11_url.png",
                         "caption": "A 'Mocking SpongeBob' meme example with SpongeBob mimicking a statement in alternating upper and lower case letters."
                     },
                     "order": 4
@@ -233,7 +233,7 @@
                     {
                     "content": {
                         "type": "image",
-                        "url": "image12_url",
+                        "url": "https://raw.githubusercontent.com/mozhaiskyi/lessons-sources/main/images/image12_url.png",
                         "caption": "The 'Is This a Pigeon?' meme with various captions questioning different misunderstandings."
                     },
                     "order": 6
