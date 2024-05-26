@@ -249,7 +249,105 @@
                 }
             ],
             "taskIds": ["task1", "task2", "task3", "task4"]
-        }
+        },
+        {
+            "id": "lesson2",
+            "title": "All About Chinchillas",
+            "description": "A brief guide to understanding and caring for chinchillas.",
+            "emoji": "🐭",
+            "pages": [
+                {
+                "id": "page1",
+                "title": "Introduction to Chinchillas",
+                "description": "Learn about what makes chinchillas unique and interesting pets.",
+                "order": 1,
+                "components": [
+                    {
+                    "content": {
+                        "type": "text",
+                        "text": "Chinchillas are small rodents native to the Andes Mountains in South America. Known for their incredibly soft fur and playful personalities, they make wonderful pets for those who understand their specific needs. In this lesson, we’ll cover some essential facts about chinchillas, their care requirements, and tips for keeping them healthy and happy."
+                    },
+                    "order": 1
+                    },
+                    {
+                    "content": {
+                        "type": "image",
+                        "url": "https://raw.githubusercontent.com/mozhaiskyi/lessons-sources/main/images/image13_url.png",
+                        "caption": "A cute chinchilla sitting on a rock, showcasing its thick, soft fur."
+                    },
+                    "order": 2
+                    },
+                    {
+                    "content": {
+                        "type": "text",
+                        "text": "Chinchillas are most active during the night (nocturnal) and can live up to 15-20 years with proper care. Their unique fur requires special attention, and they have some specific dietary needs to stay healthy."
+                    },
+                    "order": 3
+                    }
+                ]
+                },
+                {
+                "id": "page2",
+                "title": "Caring for Your Chinchilla",
+                "description": "Essential care tips for keeping your chinchilla healthy and happy.",
+                "order": 2,
+                "components": [
+                    {
+                    "content": {
+                        "type": "text",
+                        "text": "Caring for a chinchilla involves understanding its needs for a comfortable and stimulating environment. Here are some key points to consider:\n\n1. **Housing**: Chinchillas need a large, multi-level cage with plenty of space to climb and explore. The cage should be made of metal to prevent chewing damage.\n\n2. **Diet**: Their diet should consist mainly of high-quality hay, such as timothy hay, supplemented with chinchilla pellets and occasional treats like dried fruits or nuts."
+                    },
+                    "order": 1
+                    },
+                    {
+                    "content": {
+                        "type": "image",
+                        "url": "https://raw.githubusercontent.com/mozhaiskyi/lessons-sources/main/images/image14_url.png",
+                        "caption": "A well-setup chinchilla cage with multiple levels, chew toys, and a hideout."
+                    },
+                    "order": 2
+                    },
+                    {
+                    "content": {
+                        "type": "text",
+                        "text": "3. **Bathing**: Chinchillas do not take water baths; instead, they clean their fur using dust baths. Provide a container with special chinchilla dust and allow your pet to roll around in it several times a week.\n\n4. **Exercise**: Regular playtime outside the cage in a safe, supervised area is essential for their physical and mental well-being."
+                    },
+                    "order": 3
+                    }
+                ]
+                },
+                {
+                "id": "page3",
+                "title": "Health and Wellness",
+                "description": "Tips to ensure your chinchilla stays healthy.",
+                "order": 3,
+                "components": [
+                    {
+                    "content": {
+                        "type": "text",
+                        "text": "Maintaining your chinchilla’s health involves regular monitoring and preventive care:\n\n1. **Regular Check-ups**: Schedule annual veterinary visits to catch any potential health issues early.\n\n2. **Dental Health**: Chinchillas’ teeth grow continuously, so provide plenty of chew toys to help keep their teeth worn down.\n\n3. **Temperature Control**: Chinchillas are sensitive to heat and should be kept in a cool environment, ideally between 60-70°F (15-21°C)."
+                    },
+                    "order": 1
+                    },
+                    {
+                    "content": {
+                        "type": "image",
+                        "url": "https://raw.githubusercontent.com/mozhaiskyi/lessons-sources/main/images/image15_url.png",
+                        "caption": "A chinchilla enjoying a dust bath in a shallow container filled with dust."
+                    },
+                    "order": 2
+                    },
+                    {
+                    "content": {
+                        "type": "text",
+                        "text": "By understanding and meeting your chinchilla’s needs, you can ensure a happy, healthy life for your furry friend. Chinchillas can be incredibly rewarding pets with the right care and attention."
+                    },
+                    "order": 3
+                    }
+                ]
+                }
+            ]
+            }
     ],
     "tasks": [
         {
@@ -355,6 +453,84 @@
                 "isCorrect": false
             }
             ]
+        },
+        {
+            "id": "task5",
+            "question": "What is a key characteristic of chinchillas?",
+            "options": [
+            {
+                "text": "They are native to North America",
+                "order": 1,
+                "isCorrect": false
+            },
+            {
+                "text": "They have incredibly soft fur",
+                "order": 2,
+                "isCorrect": true
+            },
+            {
+                "text": "They are active during the day",
+                "order": 3,
+                "isCorrect": false
+            },
+            {
+                "text": "They can live up to 5 years",
+                "order": 4,
+                "isCorrect": false
+            }
+            ]
+        },
+        {
+            "id": "task6",
+            "question": "Which of the following are essential components of a chinchilla's diet?",
+            "options": [
+            {
+                "text": "High-quality hay, such as timothy hay",
+                "order": 1,
+                "isCorrect": true
+            },
+            {
+                "text": "Fish and chicken",
+                "order": 2,
+                "isCorrect": false
+            },
+            {
+                "text": "Chinchilla pellets",
+                "order": 3,
+                "isCorrect": true
+            },
+            {
+                "text": "Chocolate and candy",
+                "order": 4,
+                "isCorrect": false
+            }
+            ]
+        },
+        {
+            "id": "task7",
+            "question": "How do chinchillas keep their fur clean?",
+            "options": [
+            {
+                "text": "By taking water baths",
+                "order": 1,
+                "isCorrect": false
+            },
+            {
+                "text": "By rolling in dust baths",
+                "order": 2,
+                "isCorrect": true
+            },
+            {
+                "text": "By licking themselves",
+                "order": 3,
+                "isCorrect": false
+            },
+            {
+                "text": "By being groomed by their owners",
+                "order": 4,
+                "isCorrect": false
+            }
+            ]
         }
-        ]
+    ]
 }
