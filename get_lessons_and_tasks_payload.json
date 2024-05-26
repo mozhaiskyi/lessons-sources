@@ -346,7 +346,8 @@
                     }
                 ]
                 }
-            ]
+            ],
+            "taskIds": ["task5", "task6", "task7"]
             }
     ],
     "tasks": [
